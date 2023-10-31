@@ -5,6 +5,6 @@
 - 📫 How to reach me bernie_85810 (discord)
 
 <!---
-bentol888/bentol888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bentol888/public is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
